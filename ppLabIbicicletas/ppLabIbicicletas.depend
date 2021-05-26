@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1622037660 source:c:\users\chuchi\desktop\patu\pplabibicicletas\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"validaciones.h"
+	"cliente.h"
+
+1622035563 c:\users\chuchi\desktop\patu\pplabibicicletas\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1622041035 source:c:\users\chuchi\desktop\patu\pplabibicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"informes.h"
+	"cliente.h"
+
+1622037354 source:c:\users\chuchi\desktop\patu\pplabibicicletas\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fechas.h"
+
+1622037354 c:\users\chuchi\desktop\patu\pplabibicicletas\fechas.h
+
+1621979009 c:\users\chuchi\desktop\patu\pplabibicicletas\tipo.h
+
+1621979009 c:\users\chuchi\desktop\patu\pplabibicicletas\color.h
+
+1621972627 c:\users\chuchi\desktop\patu\pplabibicicletas\servicio.h
+
+1621983276 source:c:\users\chuchi\desktop\patu\pplabibicicletas\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1621983276 source:c:\users\chuchi\desktop\patu\pplabibicicletas\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1621990558 source:c:\users\chuchi\desktop\patu\pplabibicicletas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1622036254 source:c:\users\chuchi\desktop\patu\pplabibicicletas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
+1622040907 c:\users\chuchi\desktop\patu\pplabibicicletas\trabajo.h
+	"fechas.h"
+	"servicio.h"
+	"bicicleta.h"
+
+1622027574 source:c:\users\chuchi\desktop\patu\pplabibicicletas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622027382 c:\users\chuchi\desktop\patu\pplabibicicletas\validaciones.h
+
+1622040513 source:c:\users\chuchi\desktop\patu\pplabibicicletas\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"validaciones.h"
+	"fechas.h"
+
+1622040486 c:\users\chuchi\desktop\patu\pplabibicicletas\informes.h
+	"bicicleta.h"
+	"color.h"
+
+1622037660 c:\users\chuchi\desktop\patu\pplabibicicletas\cliente.h
+
+1622037707 source:c:\users\chuchi\desktop\patu\pplabibicicletas\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
